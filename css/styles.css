@@ -12650,7 +12650,7 @@ title {
 .leftImg,
 .rightImg {
     width: 60vh;
-    border: 1px dotted black;
+    border: 1px solid black;
     display: flex;
     align-items: center;
 }
